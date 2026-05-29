@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://philippseyberth-lgtm.github.io/fta-duty-savings-landing/sitemap.xml
